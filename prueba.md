@@ -8,13 +8,19 @@ Aili Parra</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- :girl:  I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- :eyes: I am currently looking for a job.
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- :books: I am a software development student, I have knowledge in cybersecurity.
 
-- 🤝 I’m available for freelancing.
+🤝 I am available to work as a freelancer.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- :books: I am currently learning Java and python
+
+- :heart: I am a person who is passionate about my work, I am constantly looking for new knowledge.
+
+📫 How to contact me ailiyeraldip@gmail.com
+
+📄 Get to know my CV <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
