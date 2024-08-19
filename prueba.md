@@ -20,7 +20,7 @@ Aili Parra</a></h1>
 
 - 📫 How to contact me ailiyeraldip@gmail.com
 
-- 📄 Get to know my CV <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 📄 Get to know my <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">CV</a>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
