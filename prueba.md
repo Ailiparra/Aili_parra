@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Ailiparra" target="blank">
 Aili Parra</a></h1>
 
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+<h3 align="center">I am a young woman passionate about systems in Colombia</h3>
 
 
 <a target="_blank" align="center">
