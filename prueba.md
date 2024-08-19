@@ -18,7 +18,7 @@ Aili Parra</a></h1>
 
 - :heart: I am a person who is passionate about my work, I am constantly looking for new knowledge.
 
--. 📫 How to contact me ailiyeraldip@gmail.com
+- 📫 How to contact me ailiyeraldip@gmail.com
 
 - 📄 Get to know my CV <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
