@@ -12,7 +12,7 @@ Aili Parra</a></h1>
 
 - :books: I am a software development student, I have knowledge in cybersecurity.
 
-🤝 I am available to work as a freelancer.
+- 🤝 I am available to work as a freelancer.
 
 - :books: I am currently learning Java and python
 
