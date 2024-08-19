@@ -5,7 +5,7 @@ Aili Parra</a></h1>
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
 </a>
 
 - :eyes: I am currently looking for a job.
