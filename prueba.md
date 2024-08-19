@@ -37,7 +37,7 @@ Aili Parra</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<!-- <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>-->
-        <a style="margin-left: 10px;" target="_blank" href="">
+        <a style="margin-left: 5px;" target="_blank" href="">
 				<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" >
         </a>
         
