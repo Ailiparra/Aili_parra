@@ -33,25 +33,14 @@ Aili Parra</a></h1>
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<!-- <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a> -->
-	    <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+	    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/aili_0712/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<!-- <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>-->
       </div>
 
-</p>
-
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+Credit: [Aili Parra](https://github.com/100rabhcsmc)
 
-Last Edited on: 08/08/2022
+Last Edited on: 19/08/2024
